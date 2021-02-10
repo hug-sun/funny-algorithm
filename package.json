@@ -1,0 +1,23 @@
+{
+  "name": "funny-algorithm",
+  "version": "1.0.0",
+  "description": "算法演绎代码",
+  "main": "index.js",
+  "scripts": {
+    "01":"node src/01-trie-tree.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hug-sun/funny-algorithm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hug-sun/funny-algorithm/issues"
+  },
+  "homepage": "https://github.com/hug-sun/funny-algorithm#readme",
+  "dependencies": {
+    "pinyin": "^2.9.1"
+  }
+}
